@@ -1,0 +1,10 @@
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.deps.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.runtimeconfig.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.runtimeconfig.dev.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.dll
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.pdb
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.csprojAssemblyReference.cache
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.AssemblyInfoInputs.cache
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.AssemblyInfo.cs
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.dll
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Release\netcoreapp2.1\rhel.7.2-x64\StGeorgeContactus.pdb

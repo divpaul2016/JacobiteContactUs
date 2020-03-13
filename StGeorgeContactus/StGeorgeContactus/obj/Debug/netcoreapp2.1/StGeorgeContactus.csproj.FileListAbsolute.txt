@@ -1,0 +1,10 @@
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Debug\netcoreapp2.1\StGeorgeContactus.deps.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Debug\netcoreapp2.1\StGeorgeContactus.runtimeconfig.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Debug\netcoreapp2.1\StGeorgeContactus.runtimeconfig.dev.json
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Debug\netcoreapp2.1\StGeorgeContactus.dll
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Debug\netcoreapp2.1\StGeorgeContactus.csprojAssemblyReference.cache
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Debug\netcoreapp2.1\StGeorgeContactus.AssemblyInfoInputs.cache
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Debug\netcoreapp2.1\StGeorgeContactus.AssemblyInfo.cs
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\bin\Debug\netcoreapp2.1\StGeorgeContactus.pdb
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Debug\netcoreapp2.1\StGeorgeContactus.dll
+C:\Users\divya.paul\source\project\StGeorgeContactus\StGeorgeContactus\obj\Debug\netcoreapp2.1\StGeorgeContactus.pdb
